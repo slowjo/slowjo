@@ -1,6 +1,4 @@
-# slowjo 👋
-
-## Welcome to my profile! Nice to have you here!
+Welcome to my profile! Nice to have you here!
 
 
 
